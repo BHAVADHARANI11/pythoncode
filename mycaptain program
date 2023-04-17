@@ -1,0 +1,9 @@
+#area of a circle
+rad=int(input("enter a number:"))
+area=3.14*rad*rad
+print("area of the circle:",area)
+
+#print file extension of a file
+file=input("enter a file name:")
+file ext=file.split(".")
+print("file ext:",file ext)
