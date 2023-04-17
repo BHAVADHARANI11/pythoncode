@@ -1,2 +1,0 @@
-# pythoncode
-Developed by Bhavadharani
